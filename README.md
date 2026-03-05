@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXN4bm93ZWZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
-</p>
-<p align="center">
-  <img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFzM2U5aTU5a2t5bTZwamNwZHNkY2NmY2pyZnAzczdldmNjd2Y2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VN8pO1dY0m8zhWaHeJ/giphy.gif)" width="400" alt="Welcome to Neama's Profile" />
+ <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXN4bm93ZWZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif" 
+       width="500" 
+       alt="A soft, animated GIF with a dreamy, light pink and pastel pink background. Delicate, beautiful roses and flower petals of varying pink and white shades gracefully float and drop from the top to the bottom of the frame, creating a lively and joyful cascading effect. In the center, in an elegant, cheerful, and sparkling font, the text 'Welcome to my Profile' is animated to pulse gently with light. The overall style is youthful, cheerful, hopeful, and full of positive energy." />
 </p>
 
 # Hi there! I'm Neama Ibrahim Mohamed ✨
