@@ -1,5 +1,5 @@
- <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpdXoxN3VyeXN4bn93ZWZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/5wWf7H89stGz6g2568/giphy.gif" width="500" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhqZzR4bm93ZWZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjRrf973M-m5u/giphy.gif" width="500" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 - 🏛️ Third-year student at **Al-Azhar University**, Faculty of Science.
 - 🧬 Major: **Pure Mathematics & Computer Science** — Bridging logic and code.
 - 💡 Passionate about **Generative AI** and building **Agentic AI** systems.
-- 🎬 **Content Creator:** My C++ tutorial reached **19,000+ views**!
+- 🎬 **Content Creator:** I love sharing my coding journey on YouTube.
 - 😄 A cheerful soul who believes coding is a creative journey filled with hope.
 
 # 💻 Tech Stack
@@ -44,9 +44,9 @@
 
 ### 🧠 My Learning Journey
 - **Software Engineering:** Mastering the art of building scalable systems.
-- **Web Development:** Exploring full-stack technologies for upcoming university projects.
+- **Web Development:** Exploring full-stack technologies for university projects.
 - **AI Frontier:** Crafting **Agentic AI** to create intelligent agents.
-- **Problem Solving:** Daily challenges to keep analytical skills sharp.
+- **Problem Solving:** Solving daily challenges to keep my analytical skills sharp.
 
 ---
 <div align="center">
