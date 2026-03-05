@@ -43,4 +43,9 @@
 * **Problem Solving:** Solving daily challenges to keep my analytical skills sharp.
 ---
 
- 
+ <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neama-Ibrahim-CS&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Neama-Ibrahim-CS&theme=tokyonight" alt="GitHub Streak" />
+</div>
+---
