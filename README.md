@@ -1,7 +1,11 @@
  <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXN4bm93ZWZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif" 
-       width="500" 
-       alt="A soft, animated GIF with a dreamy, light pink and pastel pink background. Delicate, beautiful roses and flower petals of varying pink and white shades gracefully float and drop from the top to the bottom of the frame, creating a lively and joyful cascading effect. In the center, in an elegant, cheerful, and sparkling font, the text 'Welcome to my Profile' is animated to pulse gently with light. The overall style is youthful, cheerful, hopeful, and full of positive energy." />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpdXoxN3VyeXN4bn93ZWZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/5wWf7H89stGz6g2568/giphy.gif" width="500" />
+</p>
+
+<p align="center">
+  <b>🌸 Welcome to my Profile 🌸</b><br>
+  <i>A soft, dreamy space filled with pink roses and positive energy.</i><br>
+  ✨ <b>Youthful • Cheerful • Hopeful • Full of Life</b> ✨
 </p>
 
 # Hi there! I'm Neama Ibrahim Mohamed ✨
