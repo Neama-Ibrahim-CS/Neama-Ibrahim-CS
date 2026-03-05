@@ -24,7 +24,7 @@
 * 🏛️ Third-year student at **Al-Azhar University**, Faculty of Science.
 * 🧬 Major: **Pure Mathematics & Computer Science** — Bridging logic and code.
 * 💡 Passionate about **Generative AI** and building **Agentic AI** systems.
-* 🎬 **Content Creator:** My C++ tutorial reached **19,000+ views**!
+* 🎬 **Content Creator:** I love sharing my coding journey and tech knowledge on YouTube.**!
 * 😄 A cheerful soul who believes coding is a creative journey filled with hope.
 
 # 💻 Tech Stack
