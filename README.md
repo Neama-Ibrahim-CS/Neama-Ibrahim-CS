@@ -34,6 +34,16 @@
 ### 🛠️ Tools & Environments
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,github,git)](https://skillicons.dev)
 
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neama-Ibrahim-CS&show_icons=true&theme=radical" alt="Neama's GitHub Stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neama-Ibrahim-CS&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
 ---
 
 ### 🧠 My Learning Journey
