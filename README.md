@@ -1,19 +1,11 @@
 <p align="center">
-
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtvZjZzdzZiZW10cjRkNnlyNDh2czFzbWF0N2ZpaGxraWJ0cnExcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTYIcJPjKXuPQt3e3n/giphy.gif" style="width: 95%; height: 150px; object-fit: cover;" alt="Welcome to Neama's Profile" />
-
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtvZjZzdzZiZW10cjRkNnlyNDh2czFzbWF0N2ZpaGxraWJ0cnExcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTYIcJPjKXuPQt3e3n/giphy.gif" style="width: 100%; max-height: 200px; object-fit: cover;" alt="Welcome Banner" />
 </p>
 
-
-
 # Hi there! I'm Neama Ibrahim Mohamed ✨
+### Software Engineer | Undergraduate Researcher in AI | Focus: Agentic & Generative Systems
 
-### 🎓 Pure Mathematics & Computer Science Student at Al-Azhar University 
-
-### Software Engineer | Generative AI & Agentic Systems Enthusiast
-
-
- <div align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/neamaibrahim2082005/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -25,61 +17,31 @@
   </a>
 </div>
 
-
-
 ---
-
-
 
 ### 🌸 About Me
-
 * 🏛️ Third-year student at **Al-Azhar University**, Faculty of Science.
-
 * 🧬 Major: **Pure Mathematics & Computer Science** — Bridging logic and code.
-
-* 💡 Passionate about **Generative AI** and building **Agentic AI** systems.
-
-* 🎬 **Content Creator:** I love sharing my coding journey and tech knowledge on YouTube. 
-
+* 💡 **Undergraduate Researcher** with a passion for **Agentic AI** (الذكاء الاصطناعي الوكيلي).
+* 🎬 **Content Creator:** Sharing my coding journey and tech knowledge on YouTube.
 * 😄 A cheerful soul who believes coding is a creative journey filled with hope.
 
-
-
 # 💻 Tech Stack
-
 ### 🚀 Programming Languages
-
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css)](https://skillicons.dev)
 
-
-
 ### 🛠️ Tools & Environments
-
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,github,git)](https://skillicons.dev)
 
-
-
 ---
-
-
 
 ### 🧠 My Learning Journey
-
 * **Software Engineering:** Mastering the art of building scalable systems.
-
-* **Web Development:** Exploring full-stack technologies for upcoming university projects.
-
+* **Java Development:** Deep diving into Backend systems and OOP.
 * **AI Frontier:** Crafting **Agentic AI** to create intelligent, goal-oriented agents.
-
 * **Problem Solving:** Solving daily challenges to keep my analytical skills sharp.
 
-
-
 ---
-
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=Neama-Ibrahim-CS&show_icons=true&theme=radical" alt="Neama's Stats" />
-
 </div>
-
