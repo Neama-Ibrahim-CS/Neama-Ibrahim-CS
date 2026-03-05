@@ -38,7 +38,7 @@
 
 ### 🧠 My Learning Journey
 * **Software Engineering:** Mastering the art of building scalable and efficient systems.
-* **Java Development:** Deepening my expertise in **Java** and **OOP** (البرمجة كائنية التوجه).
+* **Java Development:** Deepening my expertise in **Java** and **OOP**.
 * **AI Frontier:** Crafting **Agentic AI** to create intelligent, goal-oriented agents.
 * **Problem Solving:** Solving daily challenges to keep my analytical skills sharp.
 
