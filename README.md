@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtvZjZzdzZiZW10cjRkNnlyNDh2czFzbWF0N2ZpaGxraWJ0cnExcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTYIcJPjKXuPQt3e3n/giphy.gif" style="width: 100%; max-height: 200px; object-fit: cover;" alt="Welcome Banner" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtvZjZzdzZiZW10cjRkNnlyNDh2czFzbWF0N2ZpaGxraWJ0cnExcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTYIcJPjKXuPQt3e3n/giphy.gif" style="width: 100%; max-height: 150px; object-fit: cover;" alt="Welcome Banner" />
 </p>
 
 # Hi there! I'm Neama Ibrahim Mohamed ✨
