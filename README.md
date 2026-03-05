@@ -41,10 +41,8 @@
 * **Java Development:** Deepening my expertise in **Java** and **OOP**.
 * **AI Frontier:** Crafting **Agentic AI** to create intelligent, goal-oriented agents.
 * **Problem Solving:** Solving daily challenges to keep my analytical skills sharp.
-
----
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neama-Ibrahim-CS&show_icons=true&theme=radical&count_private=true&hide_border=false" alt="Neama's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neama-Ibrahim-CS&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
