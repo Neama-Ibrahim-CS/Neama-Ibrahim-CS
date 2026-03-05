@@ -47,8 +47,4 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neama-Ibrahim-CS&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neama-Ibrahim-CS&layout=compact&theme=tokyonight&hide_border=false" height="170"   />
-</div>
----
+ 
