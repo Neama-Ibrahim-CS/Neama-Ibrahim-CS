@@ -1,25 +1,42 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhqZzR4bm93ZWZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjRrf973M-m5u/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpdXoxN3VyeXN4bn93ZWZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/5wWf7H89stGz6g2568/giphy.gif" width="400" />
 </p>
-</br>
-<h1 align="center">Hi 👋, I'm Neama Ibrahim Mohamed</h1>
-<h3 align="center">Pure Mathematics & Computer Science Student at Al-Azhar University | Class Leader | Aspiring Java Backend Developer</h3>
 
-- 🔭 I’m currently focusing on my **University Curriculum** and mastering **Java & OOP**.
-- 🌱 I’m currently practicing **Problem Solving** daily to sharpen my logic and technical skills.
-- 🤝 I’m looking to collaborate on Open-Source Java projects and scientific research in the future.
-- 💬 Ask me about **Java**, **Mathematics**, or my journey in **Computer Science** at Al-Azhar.
-- ⚡ Fun fact: I solve at least one Problem-Solving challenge every single day!
-- 📍 Based in Egypt.
+# Hi there! I'm Neama Ibrahim Mohamed ✨
+### 🎓 Pure Mathematics & Computer Science Student at Al-Azhar University 
+### Software Engineer | Generative AI & Agentic Systems Enthusiast
+
+---
+
+### 🌸 About Me
+- 🏛️ Third-year student at **Al-Azhar University**, Faculty of Science.
+- 🧬 Major: **Pure Mathematics & Computer Science** — Bridging logic and code.
+- 💡 Passionate about **Generative AI** and building **Agentic AI** systems.
+- 🎬 **Content Creator:** I love sharing my coding journey and tech knowledge on YouTube.
+- 😄 A cheerful soul who believes coding is a creative journey filled with hope.
 
 # 💻 Tech Stack
-## Programming Languages
+### 🚀 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css)](https://skillicons.dev)
 
-## Tools & Software 
+### 🛠️ Tools & Environments
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,github,git)](https://skillicons.dev)
 
-</br>
-<div align="center"> 
-  <img src="https://github-readme-stats.vercelapp/api?username=Neama-Ibrahim-CS&show_icons=true&theme=radical" alt="Neama's Stats" />
+---
+
+### 🧠 My Learning Journey
+- **Software Engineering:** Mastering the art of building scalable systems.
+- **Web Development:** Exploring full-stack technologies for upcoming university projects.
+- **AI Frontier:** Crafting **Agentic AI** to create intelligent, goal-oriented agents.
+- **Problem Solving:** Solving daily challenges to keep my analytical skills sharp.
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neama-Ibrahim-CS&show_icons=true&theme=radical" alt="Neama's Stats" />
 </div>
+
+---
+### 📫 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neamaibrahim2082005/) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Neama_Ibrahim) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n16551313@gmail.com)
