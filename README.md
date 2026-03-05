@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXN4bm93ZWZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
 </p>
+<p align="center">
+  <img src="[أدخلي_لينك_الصورة_البينك_بالورد_هنا.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFzM2U5aTU5a2t5bTZwamNwZHNkY2NmY2pyZnAzczdldmNjd2Y2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VN8pO1dY0m8zhWaHeJ/giphy.gif)" width="400" alt="Welcome to Neama's Profile" />
+</p>
 
 # Hi there! I'm Neama Ibrahim Mohamed ✨
 ### 🎓 Pure Mathematics & Computer Science Student at Al-Azhar University 
