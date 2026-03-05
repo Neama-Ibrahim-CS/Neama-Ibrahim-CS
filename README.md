@@ -45,6 +45,6 @@
 ---
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neama-Ibrahim-CS&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Neama's GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neama-Ibrahim-CS&show_icons=true&theme=radical&count_private=true&hide_border=false" alt="Neama's GitHub Stats" />
+</p>
