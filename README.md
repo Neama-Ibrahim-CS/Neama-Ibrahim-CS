@@ -4,7 +4,7 @@
 
 # Hi there! I'm Neama Ibrahim Mohamed ✨
 ### 🎓 Pure Mathematics & Computer Science Student at Al-Azhar University 
-### Software Engineer | Generative AI & Agentic Systems Enthusiast
+###  Software Engineer | Undergraduate Researcher in AI | Focus: Agentic & Generative Systems
 
 <div align="center">
   <a href="https://www.linkedin.com/in/neamaibrahim2082005/">
@@ -24,7 +24,7 @@
 * 🏛️ Third-year student at **Al-Azhar University**, Faculty of Science.
 * 🧬 Major: **Pure Mathematics & Computer Science** — Bridging logic and code.
 * 💡 Passionate about **Generative AI** (الذكاء الاصطناعي التوليدي) and building **Agentic AI** (الأنظمة الوكيلة) systems.
-* 🎬 **Content Creator:** My C++ tutorial reached **19,000+ views**!
+* 🎬 **Content Creator:Sharing my coding journey and tech knowledge on YouTube.
 * 😄 A cheerful soul who believes coding is a creative journey filled with hope.
 
 # 💻 Tech Stack
