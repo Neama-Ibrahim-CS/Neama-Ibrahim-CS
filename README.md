@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtvZjZzdzZiZW10cjRkNnlyNDh2czFzbWF0N2ZpaGxraWJ0cnExcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTYIcJPjKXuPQt3e3n/giphy.gif" style="width: 95%; height: 150px; object-fit: cover;" alt="Welcome to Neama's Profile" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtvZjZzdzZiZW10cjRkNnlyNDh2czFzbWF0N2ZpaGxraWJ0cnExcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTYIcJPjKXuPQt3e3n/giphy.gif" style="width: 100%; max-height: 200px; object-fit: cover;" alt="Welcome to Neama's Profile" />
 </p>
 
 # Hi there! I'm Neama Ibrahim Mohamed ✨
@@ -21,11 +21,11 @@
 ---
 
 ### 🌸 About Me
-* 🏛️ Third-year student at **Al-Azhar University**, Faculty of Science.
-* 🧬 Major: **Pure Mathematics & Computer Science** — Bridging logic and code.
-* 💡 Passionate about **Generative AI** and building **Agentic AI** systems.
-* 🎬 **Content Creator:** I love sharing my coding journey and tech knowledge on YouTube.**!
-* 😄 A cheerful soul who believes coding is a creative journey filled with hope.
+- 🏛️ Third-year student at **Al-Azhar University**, Faculty of Science.
+- 🧬 Major: **Pure Mathematics & Computer Science** — Bridging logic and code.
+- 💡 Passionate about **Generative AI** (الذكاء الاصطناعي التوليدي) and building **Agentic AI** (الأنظمة الوكيلة) systems.
+- 🎬 **Content Creator:** My C++ tutorial reached **19,000+ views**!
+- 😄 A cheerful soul who believes coding is a creative journey filled with hope.
 
 # 💻 Tech Stack
 ### 🚀 Programming Languages
@@ -37,10 +37,10 @@
 ---
 
 ### 🧠 My Learning Journey
-* **Software Engineering:** Mastering the art of building scalable systems.
-* **Web Development:** Exploring full-stack technologies for upcoming university projects.
-* **AI Frontier:** Crafting **Agentic AI** to create intelligent, goal-oriented agents.
-* **Problem Solving:** Solving daily challenges to keep my analytical skills sharp.
+- **Software Engineering:** Mastering the art of building scalable and efficient systems.
+- **Web Development:** Exploring full-stack technologies for upcoming university projects.
+- **AI Frontier:** Crafting **Agentic AI** to create intelligent, goal-oriented agents.
+- **Problem Solving:** Solving daily challenges to keep my analytical skills sharp.
 
 ---
 <div align="center">
