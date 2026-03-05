@@ -6,6 +6,18 @@
 ### 🎓 Pure Mathematics & Computer Science Student at Al-Azhar University 
 ### Software Engineer | Generative AI & Agentic Systems Enthusiast
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/neamaibrahim2082005/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Neama_Ibrahim">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:neamaibrahim987@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
 ---
 
 ### 🌸 About Me
@@ -34,9 +46,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neama-Ibrahim-CS&show_icons=true&theme=radical" alt="Neama's Stats" />
 </div>
-
----
-### 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neamaibrahim2082005/) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Neama_Ibrahim) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n16551313@gmail.com)
