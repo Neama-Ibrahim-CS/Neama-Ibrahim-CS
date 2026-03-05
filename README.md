@@ -1,25 +1,22 @@
+# Hi there, I'm Neama Ibrahim Mohamed 👋
+*(Pure Math & Computer Science Student at Al-Azhar University)*
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXN4bm93ZWZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXN4bm93ZWZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjRrf973M-m5u/giphy.gif" width="400" />
+  <br>
+  <i>"My brain runs on Java, C++, and coffee!"</i>
 </p>
-</br>
-<h1 align="center">Hi 👋, I'm Neama Ibrahim Mohamed</h1>
-<h3 align="center">Pure Mathematics & Computer Science Student at Al-Azhar University | Class Leader | Aspiring Java Backend Developer</h3>
 
-- 🔭 I’m currently focusing on my **University Curriculum** and mastering **Java & OOP**.
-- 🌱 I’m currently practicing **Problem Solving** daily to sharpen my logic and technical skills.
-- 🤝 I’m looking to collaborate on Open-Source Java projects and scientific research in the future.
-- 💬 Ask me about **Java**, **Mathematics**, or my journey in **Computer Science** at Al-Azhar.
-- ⚡ Fun fact: I solve at least one Problem-Solving challenge every single day!
-- 📍 Based in Egypt.
+### 🛠️ My Tech Stack:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
 
-# 💻 Tech Stack
-## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css)](https://skillicons.dev)
-
-## Tools & Software 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,github,git)](https://skillicons.dev)
-
-</br>
-<div align="center"> 
-  <img src="https://github-readme-stats.vercelapp/api?username=Neama-Ibrahim-CS&show_icons=true&theme=radical" alt="Neama's Stats" />
-</div>
+---
+### 🎓 About Me:
+* 🏛️ **Third-year student** at Al-Azhar University, Faculty of Science.
+* 🧬 Specializing in **Pure Mathematics and Computer Science**.
+* 🚀 Focused on mastering **Java**, **C++**, and Backend Development.
+* 🧠 Passionate about **Problem Solving** and Scientific Research.
