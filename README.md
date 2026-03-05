@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtvZjZzdzZiZW10cjRkNnlyNDh2czFzbWF0N2ZpaGxraWJ0cnExcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTYIcJPjKXuPQt3e3n/giphy.gif" width="600" alt="Welcome to Neama's Profile" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtvZjZzdzZiZW10cjRkNnlyNDh2czFzbWF0N2ZpaGxraWJ0cnExcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTYIcJPjKXuPQt3e3n/giphy.gif" style="width: 95%; height: 150px; object-fit: cover;" alt="Welcome to Neama's Profile" />
 </p>
 
 # Hi there! I'm Neama Ibrahim Mohamed ✨
-### 🎓 Pure Mathematics & Computer Science Student at Al-Azhar University
+### 🎓 Pure Mathematics & Computer Science Student at Al-Azhar University 
 ### Software Engineer | Generative AI & Agentic Systems Enthusiast
 
 <div align="center">
@@ -38,9 +38,9 @@
 
 ### 🧠 My Learning Journey
 * **Software Engineering:** Mastering the art of building scalable systems.
-* **Web Development:** Exploring full-stack technologies for university projects.
-* **AI Frontier:** Crafting **Agentic AI** to create intelligent agents.
-* **Problem Solving:** Solving daily challenges to keep skills sharp.
+* **Web Development:** Exploring full-stack technologies for upcoming university projects.
+* **AI Frontier:** Crafting **Agentic AI** to create intelligent, goal-oriented agents.
+* **Problem Solving:** Solving daily challenges to keep my analytical skills sharp.
 
 ---
 <div align="center">
