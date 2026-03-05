@@ -13,27 +13,16 @@
 ### Software Engineer | Generative AI & Agentic Systems Enthusiast
 
 
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/neamaibrahim2082005/">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+ <div align="center">
+  <a href="https://www.linkedin.com/in/neamaibrahim2082005/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://www.youtube.com/@Neama_Ibrahim">
-
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-
+  <a href="https://www.youtube.com/@Neama_Ibrahim" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-
   <a href="mailto:neamaibrahim987@gmail.com">
-
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
 </div>
 
 
