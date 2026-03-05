@@ -50,7 +50,7 @@
 
 * 💡 Passionate about **Generative AI** and building **Agentic AI** systems.
 
-* 🎬 **Content Creator:** I love sharing my coding journey and tech knowledge on YouTube.**!
+* 🎬 **Content Creator:** I love sharing my coding journey and tech knowledge on YouTube. 
 
 * 😄 A cheerful soul who believes coding is a creative journey filled with hope.
 
