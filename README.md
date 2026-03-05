@@ -42,10 +42,13 @@
 * **AI Frontier:** Crafting **Agentic AI** to create intelligent, goal-oriented agents.
 * **Problem Solving:** Solving daily challenges to keep my analytical skills sharp.
 ---
-
- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neama-Ibrahim-CS&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neama-Ibrahim-CS&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" height="170" alt="GitHub Stats" />
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Neama-Ibrahim-CS&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neama-Ibrahim-CS&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neama-Ibrahim-CS&layout=compact&theme=tokyonight&hide_border=false" height="170" alt="Top Languages" />
 </div>
 ---
