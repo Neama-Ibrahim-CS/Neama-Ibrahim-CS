@@ -23,7 +23,7 @@
 ### 🌸 About Me
 * 🏛️ Third-year student at **Al-Azhar University**, Faculty of Science.
 * 🧬 Major: **Pure Mathematics & Computer Science** — Bridging logic and code.
-* 💡 **Undergraduate Researcher** passionate about **Agentic AI** (الأنظمة الوكيلة) & **Generative AI**.
+* 💡 **Undergraduate Researcher** passionate about **Agentic AI**  & **Generative AI**.
 * 🎬 **Content Creator:** Sharing my coding journey and tech knowledge on YouTube.
 * 😄 A cheerful soul who believes coding is a creative journey filled with hope.
 
