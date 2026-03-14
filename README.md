@@ -3,25 +3,24 @@
 </p>
 
 ## ✨ Hi there! I'm Neama Ibrahim
-#### 🎓 Math & Computer Science Student at Al-Azhar University
-#### Java Developer Intern | AI Researcher
+#### Java Developer Intern | Frontend Learner | AI Researcher
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-**🚀 Programming Languages**
+** Programming Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css&theme=dark" width="250" />
+<img src="https://skillicons.dev/circule icons?i=java,cpp,python,html,css&theme=dark" width="250" />
 
-**🛠️ Development Environments**
+** Development Environments**
 <br>
 <img src="https://skillicons.dev/icons?i=idea,vscode,github,git&theme=dark" width="200" />
 
 ---
 
 ### 🌸 About Me
-* 🏛️ **Third-year student** at Al-Azhar University, Faculty of Science.
-* 🧬 Major: **Pure Mathematics & Computer Science** — Focused on academic excellence.
-* 💻 **Undergraduate AI Researcher**.
-* 🎬 **Content Creator:** Documenting my learning journey on YouTube.
+*  **Third-year student** at Al-Azhar University, Faculty of Science.
+*  Major:Math & Computer Science
+*  **Undergraduate AI Researcher**.
+*  **Content Creator:** Documenting my learning journey on YouTube.
