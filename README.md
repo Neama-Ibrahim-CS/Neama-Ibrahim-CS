@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20Researcher&descSize=20&descAlignY=60" width="100%" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20Intern%20|%20AI%20Researcher&descSize=20&descAlignY=60" width="100%" alt="Welcome Banner" />
 </p>
 
-# Hi there! I'm Neama Ibrahim Mohamed ✨
-### 🎓 Pure Mathematics & Computer Science Student at Al-Azhar University 
-### Software Engineer | Undergraduate Researcher in AI | Focus: Agentic & Generative Systems
+# Hi there! I'm Neama Ibrahim ✨
+### 🎓 Math & Computer Science Student at Al-Azhar University
+### Java Developer Intern | Undergraduate AI Researcher | Focus: Agentic Systems & GenAI
 
 <div align="center">
   <a href="https://www.linkedin.com/in/neamaibrahim2082005/" target="_blank">
@@ -21,11 +21,12 @@
 ---
 
 ### 🌸 About Me
-* 🏛️ Third-year student at **Al-Azhar University**, Faculty of Science.
-* 🧬 Major: **Pure Mathematics & Computer Science** — Bridging logic and code.
-* 💡 **Undergraduate Researcher** passionate about **Agentic AI**  & **Generative AI**.
-* 🎬 **Content Creator:** Sharing my coding journey and tech knowledge on YouTube.
-* 😄 A cheerful soul who believes coding is a creative journey filled with hope.
+* 🏛️ **Third-year student** at Al-Azhar University, Faculty of Science.
+* 🧬 Major: **Pure Mathematics & Computer Science** — Exploring the intersection of logic and algorithms.
+* 💻 **Java Developer Intern** at **SYNTECXHUB**.
+* 💡 **Undergraduate AI Researcher** specialized in **Agentic AI** & **Generative AI**.
+* 🎬 **Content Creator:** Documenting my learning journey and sharing tech insights on YouTube.
+* 🎨 **Frontend Learner:** Currently diving into HTML/CSS to build beautiful interfaces.
 
 # 💻 Tech Stack
 ### 🚀 Programming Languages
@@ -37,10 +38,8 @@
 ---
 
 ### 🧠 My Learning Journey
-* **Software Engineering:** Mastering the art of building scalable and efficient systems.
-* **Java Development:** Deepening my expertise in **Java** and **OOP**.
-* **AI Frontier:** Crafting **Agentic AI** to create intelligent, goal-oriented agents.
-* **Problem Solving:** Solving daily challenges to keep my analytical skills sharp.
+* **Java Programming:** Deepening my expertise in **Core Java** and **OOP** through industry experience.
+* **AI Research:** Developing intelligent, goal-oriented agents using **Agentic AI** frameworks.
+* **Web Development:** Mastering **Frontend** basics to complement my backend skills.
+* **Problem Solving:** Enhancing analytical skills through daily coding challenges.
 ---
-  
-
