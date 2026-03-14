@@ -11,7 +11,7 @@
 
 ** Programming Languages**
 <br>
-<img src="https://skillicons.dev/circule icons?i=java,cpp,python,html,css&theme=dark" width="250" />
+<img src="https://skillicons.dev/smallicons?i=java,cpp,python,html,css&theme=dark" width="250" />
 
 ** Development Environments**
 <br>
