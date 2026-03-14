@@ -20,11 +20,12 @@
 </div>
 
 ---
-
 ### 💻 Tech Stack & Tools
+
  Programming Languages
 <br>
 <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css&theme=dark" width="250" />
+
  Development Environments
 <br>
 <img src="https://skillicons.dev/icons?i=idea,vscode,github,git&theme=dark" width="200" />
