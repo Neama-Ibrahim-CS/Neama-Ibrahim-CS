@@ -40,11 +40,8 @@
 ---
 
 ### 📬 Connect with Me
----
-
-### 📬 Connect with Me
 
 * <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height="18"/> [LinkedIn](https://www.linkedin.com/in/neamaibrahim2082005/)
-* <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="18"/> [Email](neamaibrahim778@gmail.com)
+* <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="18"/> [Email](mailto:neamaibrahim778@gmail.com)
 * <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="18"/> [WhatsApp](https://api.whatsapp.com/send?phone=201123241957)
 * <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="18"/> [Facebook](https://www.facebook.com/neama.ibrahim.685910)
