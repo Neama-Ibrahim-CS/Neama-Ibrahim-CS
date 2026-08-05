@@ -48,16 +48,7 @@
 
 ---
 
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neama-Ibrahim-CS&show_icons=true&theme=dark&hide_border=true" alt="Neama's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neama-Ibrahim-CS&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ###  📫 Get in Touch
 
-* 🌐 **LinkedIn:** [neamaibrahim2002005](https://www.linkedin.com/in/neamaibrahim2002005/)
-* 📧 **Direct Email:** `ne6551313@gmail.com`
+* 🌐 **LinkedIn:** [neamaibrahim2002005][(https://www.linkedin.com/in/neamaibrahim2002005/](https://www.linkedin.com/in/neamaibrahim2082005/))
+* 📧 **Direct Email:** `neama.ibrahim.cs@gmail.com`
