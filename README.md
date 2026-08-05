@@ -1,8 +1,8 @@
-<div align="center">
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0077b5,100:00b4d8&height=200&section=header&text=Neama%20Ibrahim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20|%20PHP%20%26%20Laravel&descAlignY=62&descAlign=50)
+ش<div align="center">
 
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text)
 
-# Hi there, I'm Neama Ibrahim 
+# Hi there, I'm Neama Ibrahim 👋
 ### 💻 Full Stack Web Developer (PHP / Laravel) | Pure Math & Computer Science Student
 
 </div>
