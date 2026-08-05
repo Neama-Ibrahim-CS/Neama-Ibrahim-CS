@@ -1,19 +1,7 @@
-ء<div align="center">
+<div align="center">
 
 # Hi there, I'm Neama Ibrahim 👋
 ### 💻 Full Stack Web Developer (PHP / Laravel) | Pure Math & Computer Science Student
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/neamaibrahim2002005/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ne6551313@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
 
 </div>
 
@@ -50,8 +38,7 @@
 
 ### 📬 Connect with Me
 
-* <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="16"/> : [LinkedIn](https://www.linkedin.com/in/neamaibrahim2082005/)
-* <img src="https://cdn.simpleicons.org/gmail/EA4335" width="16"/> : [Email](mailto:neama.ibrahim.cs@gmail.com)
-* <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="16"/> : ([WatsApp](https://api.whatsapp.com/send?phone=201123241957
-))
-* <img src="https://cdn.simpleicons.org/facebook/1877F2" width="16"/> : [Facebook](https://www.facebook.com/neama.ibrahim.685910?locale=ar_AR)
+* <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="16"/> [LinkedIn](https://www.linkedin.com/in/neamaibrahim2082005/)
+* <img src="https://cdn.simpleicons.org/gmail/EA4335" width="16"/> [Email](mailto:neama.ibrahim.cs@gmail.com)
+* <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="16"/> [WhatsApp](https://api.whatsapp.com/send?phone=201123241957)
+* <img src="https://cdn.simpleicons.org/facebook/1877F2" width="16"/> [Facebook](https://www.facebook.com/neama.ibrahim.685910)
