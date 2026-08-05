@@ -1,39 +1,65 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20Intern%20|%20Computer%20Science%20Student&descSize=15&descAlignY=60" width="100%" alt="Welcome Banner" />
-</p>
-
-## ✨ Hi there! I'm Neama Ibrahim
-#### Java Developer Intern | Frontend Learner | AI Researcher
-
----
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/neamaibrahim2082005/" target="_blank">
+
+# Hi there, I'm Neama Ibrahim 👋
+### 💻 Full Stack Web Developer (PHP / Laravel) | Pure Math & Computer Science Student
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/neamaibrahim2002005/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@Neama_Ibrahim" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:neamaibrahim987@gmail.com">
+  <a href="mailto:ne6551313@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://youtube.com">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
 </div>
 
 ---
-### 💻 Tech Stack & Tools
 
- Programming Languages
-<br>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css&theme=dark" width="250" />
+### 🚀 About Me
 
- Development Environments
-<br>
-<img src="https://skillicons.dev/icons?i=idea,vscode,github,git&theme=dark" width="200" />
+* 🎓 **Academic Background:** Pure Mathematics & Computer Science Student at Faculty of Science.
+* 💻 **Current Focus:** Building scalable, secure, and robust web applications using **PHP & Laravel**.
+* 🧠 **Core Strengths:** Object-Oriented Programming (OOP), Software Engineering Principles, Data Structures, and Database Design.
+* ✍️ **Content & Knowledge Sharing:** Documenting my learning path and practical tech builds on LinkedIn and YouTube.
 
 ---
 
-### 🌸 About Me
-*  **Third-year student** at Al-Azhar University, Faculty of Science.
-*  Major:Math & Computer Science
-*  **Undergraduate AI Researcher**.
-*  **Content Creator:** Documenting my learning journey on YouTube.
+### 🛠️ Tech Stack & Tools
+
+**Backend & Databases:**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Development & Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neama-Ibrahim-CS&show_icons=true&theme=dark&hide_border=true" alt="Neama's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neama-Ibrahim-CS&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+###  📫 Get in Touch
+
+* 🌐 **LinkedIn:** [neamaibrahim2002005](https://www.linkedin.com/in/neamaibrahim2002005/)
+* 📧 **Direct Email:** `ne6551313@gmail.com`
