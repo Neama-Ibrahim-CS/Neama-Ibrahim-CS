@@ -1,8 +1,7 @@
 <div align="center">
 
 
-![Header Banner](https://user-images.githubusercontent.com/73097171/105933999-52684800-6048-11eb-9f20-b080b0370f19.gif)
-
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0077b5,100:00b4d8&height=200&section=header&text=Neama%20Ibrahim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20|%20PHP%20%26%20Laravel&descAlignY=62&descAlign=50)
 # Hi there, I'm Neama Ibrahim 
 ### 💻 Full Stack Web Developer (PHP / Laravel) | Pure Math & Computer Science Student
 
