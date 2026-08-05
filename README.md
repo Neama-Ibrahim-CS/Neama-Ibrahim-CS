@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Neama%20Ibrahim)# Hi there, I'm Neama Ibrahim 
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ffb703,100:f72585&text=Neama%20Ibrahim)
 
 ### 💻 Full Stack Web Developer (PHP / Laravel) | Pure Math & Computer Science Student
 
