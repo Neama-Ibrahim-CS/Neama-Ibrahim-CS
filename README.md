@@ -1,23 +1,23 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Neama%20Ibrahim&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer%20|%20PHP%20%26%20Laravel&descAlignY=62&descAlign=50)
-# Hi there, I'm Neama Ibrahim 👋
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Neama%20Ibrahim)# Hi there, I'm Neama Ibrahim 
+
 ### 💻 Full Stack Web Developer (PHP / Laravel) | Pure Math & Computer Science Student
 
 </div>
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-* 🎓 **Academic Background:** Pure Mathematics & Computer Science Student at Faculty of Science.
-* 💻 **Current Focus:** Building scalable, secure, and robust web applications using **PHP & Laravel**.
-* 🧠 **Core Strengths:** Object-Oriented Programming (OOP), Software Engineering Principles, Data Structures, and Database Design.
-* ✍️ **Content & Knowledge Sharing:** Documenting my learning path and practical tech builds on LinkedIn and YouTube.
+*  **Academic Background:** Pure Mathematics & Computer Science Student at Faculty of Science.
+*  **Current Focus:** Building scalable, secure, and robust web applications using **PHP & Laravel**.
+*  **Core Strengths:** Object-Oriented Programming (OOP), Software Engineering Principles, Data Structures, and Database Design.
+*  **Content & Knowledge Sharing:** Documenting my learning path and practical tech builds on LinkedIn and YouTube.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Backend & Databases:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -37,7 +37,7 @@
 
 ---
 
-### 📬 Connect with Me
+###  Connect with Me
 
 * <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height="18"/> [LinkedIn](https://www.linkedin.com/in/neamaibrahim2082005/)
 * <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="18"/> [Email](neamaibrahim778@gmail.com)
