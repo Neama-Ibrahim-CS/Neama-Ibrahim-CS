@@ -50,8 +50,8 @@
 
 ### 📬 Connect with Me
 
-* <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="16"/> **LinkedIn:** [Neama Ibrahim](https://www.linkedin.com/in/neamaibrahim2082005/)
-* <img src="https://cdn.simpleicons.org/gmail/EA4335" width="16"/> **Direct Email:** [neama.ibrahim.cs@gmail.com](mailto:neama.ibrahim.cs@gmail.com)
-* <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="16"/> **WhatsApp:** ([https://wa.me/201000000000](https://api.whatsapp.com/send?phone=201123241957
+* <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="16"/> : [LinkedIn](https://www.linkedin.com/in/neamaibrahim2082005/)
+* <img src="https://cdn.simpleicons.org/gmail/EA4335" width="16"/> : [Email](mailto:neama.ibrahim.cs@gmail.com)
+* <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="16"/> : ([WatsApp](https://api.whatsapp.com/send?phone=201123241957
 ))
-* <img src="https://cdn.simpleicons.org/facebook/1877F2" width="16"/> **Facebook:** [Neama Ibrahim]([https://facebook.com/YOUR_FACEBOOK_USERNAME](https://www.facebook.com/neama.ibrahim.685910?locale=ar_AR)
+* <img src="https://cdn.simpleicons.org/facebook/1877F2" width="16"/> : [Facebook](https://www.facebook.com/neama.ibrahim.685910?locale=ar_AR)
