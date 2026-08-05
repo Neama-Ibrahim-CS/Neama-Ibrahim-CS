@@ -1,4 +1,12 @@
 <div align="center">
+<div align="center">
+
+![Header Banner](https://user-images.githubusercontent.com/73097171/105933999-52684800-6048-11eb-9f20-b080b0370f19.gif)
+
+# Hi there, I'm Neama Ibrahim 👋
+### 💻 Full Stack Web Developer (PHP / Laravel) | Pure Math & Computer Science Student
+
+</div>
 
 # Hi there, I'm Neama Ibrahim 👋
 ### 💻 Full Stack Web Developer (PHP / Laravel) | Pure Math & Computer Science Student
@@ -37,8 +45,11 @@
 ---
 
 ### 📬 Connect with Me
+---
 
-* <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="16"/> [LinkedIn](https://www.linkedin.com/in/neamaibrahim2082005/)
-* <img src="https://cdn.simpleicons.org/gmail/EA4335" width="16"/> [Email](mailto:neama.ibrahim.cs@gmail.com)
-* <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="16"/> [WhatsApp](https://api.whatsapp.com/send?phone=201123241957)
-* <img src="https://cdn.simpleicons.org/facebook/1877F2" width="16"/> [Facebook](https://www.facebook.com/neama.ibrahim.685910)
+### 📬 Connect with Me
+
+* <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height="18"/> [LinkedIn](https://www.linkedin.com/in/neamaibrahim2082005/)
+* <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="18"/> [Email](neamaibrahim778@gmail.com)
+* <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="18"/> [WhatsApp](https://api.whatsapp.com/send?phone=201123241957)
+* <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="18"/> [Facebook](https://www.facebook.com/neama.ibrahim.685910)
