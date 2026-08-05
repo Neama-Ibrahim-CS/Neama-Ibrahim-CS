@@ -1,14 +1,9 @@
 <div align="center">
-<div align="center">
+
 
 ![Header Banner](https://user-images.githubusercontent.com/73097171/105933999-52684800-6048-11eb-9f20-b080b0370f19.gif)
 
-# Hi there, I'm Neama Ibrahim 👋
-### 💻 Full Stack Web Developer (PHP / Laravel) | Pure Math & Computer Science Student
-
-</div>
-
-# Hi there, I'm Neama Ibrahim 👋
+# Hi there, I'm Neama Ibrahim 
 ### 💻 Full Stack Web Developer (PHP / Laravel) | Pure Math & Computer Science Student
 
 </div>
